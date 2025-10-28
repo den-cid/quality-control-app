@@ -1,0 +1,21 @@
+# R files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user
+
+# Temporary files
+*.tmp
+*.log
+
+# Data files (if sensitive)
+*.csv
+*.xlsx
+*.rds
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# shinyapps.io
+rsconnect/
